@@ -1,7 +1,7 @@
 # Keep Blogging
 This is a site with all the necessary tools for blogging, written in Django.
-The site has been hosted using Heroku.
-Take a look at the site [here](https://keep--blogging.herokuapp.com/).
+<br/>The site has been hosted using Heroku.
+<br/>Take a look at the site [here](https://keep--blogging.herokuapp.com/).
 
 
 # Table of Contents
